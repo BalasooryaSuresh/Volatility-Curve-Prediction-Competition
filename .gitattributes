@@ -1,0 +1,2 @@
+*.parquet filter=lfs diff=lfs merge=lfs -text
+train_data.parquet filter=lfs diff=lfs merge=lfs -text
